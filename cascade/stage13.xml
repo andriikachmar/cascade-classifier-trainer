@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage13>
+  <maxWeakCount>10</maxWeakCount>
+  <stageThreshold>-8.8135349750518799e-01</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 159171 1.7790790647268295e-02</internalNodes>
+      <leafValues>
+        -5.6435644626617432e-01 2.2222222387790680e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 115478 -1.1386969126760960e-03</internalNodes>
+      <leafValues>
+        2.4720470607280731e-01 -4.8112285137176514e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 72169 -3.9573334157466888e-02</internalNodes>
+      <leafValues>
+        -3.3847585320472717e-01 3.2763189077377319e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 132368 -4.4597871601581573e-03</internalNodes>
+      <leafValues>
+        -7.5220781564712524e-01 1.8948128819465637e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 60285 1.1521773412823677e-02</internalNodes>
+      <leafValues>
+        -2.2095973789691925e-01 6.2102365493774414e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 162120 -1.8384773284196854e-04</internalNodes>
+      <leafValues>
+        -6.0134571790695190e-01 2.0844496786594391e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 89538 -3.6845933645963669e-03</internalNodes>
+      <leafValues>
+        3.9656117558479309e-01 -3.5067772865295410e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 44365 -8.1248022615909576e-04</internalNodes>
+      <leafValues>
+        4.4791802763938904e-01 -2.9024115204811096e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 23703 -3.1626231502741575e-03</internalNodes>
+      <leafValues>
+        3.1531727313995361e-01 -4.2112767696380615e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 24606 -6.9205872714519501e-03</internalNodes>
+      <leafValues>
+        -8.4443628787994385e-01 1.6891750693321228e-01</leafValues></_></weakClassifiers></stage13>
+</opencv_storage>
